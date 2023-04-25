@@ -1,0 +1,50 @@
+
+header {
+	background-color: #FFF;
+	border: 2px solid #000;
+	margin: 10px;
+	border-radius: 8px;
+	margin: -6px auto auto auto;
+
+}
+
+.logo {
+	margin: 5px 0px 0px 5px;
+
+}
+
+.feed {
+	position: absolute;
+	width: 101px;
+	height: 40px;
+	left: 1136px;
+    top: 15px;
+}
+
+.ajd {
+	position: absolute;
+	width: 91px;
+	height: 41.58px;
+	left: 1285px;
+	top: 11px;
+}
+
+.etr {
+	position: absolute;
+	width: 91px;
+	height: 35.8px;
+	left: 1424px;
+	top: 15px;
+}
+
+.traco {
+	position: absolute;
+	left: 1251px;
+	top: 12px;
+}
+
+.traco1 {
+	position: absolute;
+	left: 1400px;
+	top: 12px;
+}
