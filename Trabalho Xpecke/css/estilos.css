@@ -48,3 +48,12 @@ header {
 	left: 1400px;
 	top: 12px;
 }
+
+main {
+
+}
+
+.bcr {
+	border: 2px solid #000;
+	border-radius: 10px;
+}
