@@ -55,5 +55,23 @@ main {
 
 .bcr {
 	border: 2px solid #000;
-	border-radius: 10px;
+	border-radius: 19px;
+	position: absolute;
+	width: 266px;
+	height: 31px;
+	left: 285px;
+	top: 97px;
+	font-family: inter;
+	font-weight: 500;
+	font-size: 23px;
+	position: absolute;
+	text-align: center;
+}
+
+.lupa {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 308px;
+	top: 97px;
 }
