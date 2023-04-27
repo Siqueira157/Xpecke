@@ -18,22 +18,22 @@ header {
 	width: 101px;
 	height: 40px;
 	left: 1136px;
-    top: 15px;
+    top: 12px;
 }
 
 .ajd {
 	position: absolute;
-	width: 91px;
-	height: 41.58px;
+	width: 88px;
+	height: 37px;
 	left: 1285px;
 	top: 11px;
 }
 
 .etr {
 	position: absolute;
-	width: 91px;
-	height: 35.8px;
-	left: 1424px;
+	width: 88px;
+	height: 35px;
+	left: 1418px;
 	top: 15px;
 }
 
@@ -45,20 +45,21 @@ header {
 
 .traco1 {
 	position: absolute;
-	left: 1400px;
+	left: 1392px;
 	top: 12px;
 }
 
 main {
+	height: 1000px;
 
 }
 
 .bcr {
-	border: 2px solid #000;
-	border-radius: 19px;
+	border: 3px solid #000;
+	border-radius: 60px;
 	position: absolute;
-	width: 266px;
-	height: 31px;
+	width: 220px;
+	height: 47px;
 	left: 285px;
 	top: 97px;
 	font-family: inter;
@@ -70,8 +71,367 @@ main {
 
 .lupa {
 	position: absolute;
-	width: 34px;
+	width: 40px;
+	height: 40px;
+	left: 300px;
+	top: 104px;
+}
+
+.oft {
+	position: absolute;
+	width: 92px;
+	height: 31px;
+	left: 108px;
+	top: 207px;
+}
+
+.pro {
+	position: absolute;
+	width: 219px;
+	height: 43px;
+	left: 278px;
+	top: 198px;
+}
+
+.f {
+	position: absolute;
+	width: 150px;
+	height: 29px;
+	left: 580px;
+	top: 207px;
+}
+
+.m {
+	position: absolute;
+	width: 120px;
+	height: 29px;
+	left: 840px;
+	top: 207px;
+}
+
+.in {
+	position: absolute;
+	width: 95px;
+	height: 33px;
+	left: 1099px;
+	top: 207px;
+}
+
+.marcas {
+	position: absolute;
+	width: 66.43px;
+	height: 31px;
+	left: 1346px;
+	top: 207px;
+}
+
+.barra {
+	position: absolute;
+	left: 230px;
+	top: 205px;
+}
+
+.barra1 {
+	position: absolute;
+	left: 537px;
+	top: 205px;
+}
+
+.barra2 {
+	position: absolute;
+	left: 779px;
+	top: 205px;
+}
+
+.barra3 {
+	position: absolute;
+	left: 1022px;
+	top: 205px;
+}
+
+.barra4 {
+	position: absolute;
+	left: 1260px;
+	top: 205px;
+}
+
+
+.box {
+	position: absolute;
+	width: 1438px;
+	height: 13px;
+	left: 40px;
+	top: 245px;
+	background-color: black;
+}
+
+.lançamento {
+	position: absolute;
+	width: 210px;
+	height: 48px;
+	left: 623px;
+	top: 298px;
+}
+
+
+.quadrado {
+	position: absolute;
+	width: 316px;
+	height: 253px;
+	left: 582px;
+	top: 392px;
+	border: 2px solid #000;
+	background-color: #F4F4F4;
+}
+
+.tnis {
+	position: absolute;
+	width: 176px;
+	height: 132px;
+	left: 70px;
+	top: 68px;
+}
+
+.raio {
+	position: absolute;
+	width: 73.36px;
+	height: 60.05px;
+	left: 844px;
+	top: 380px;
+}
+
+.raio2 {
+	position: absolute;
+	width: 91.64px;
+	height: 89.42px;
+	left: 554px;
+	top: 598px;
+}
+
+.quadrado2 {
+	position: absolute;
+	width: 232px;
+	height: 221px;
+	left: 236px;
+	top: 410px;
+	border: 1px solid #000;
+	background-color: #F4F4F4;
+}
+
+.tnis2 {
+	position: absolute;
+	width: 170px;
+	height: 155.14px;
+	left: 261px;
+	top: 424px;
+}
+
+.raio3 {
+	position: absolute;
+	width: 38.6px;
+	height: 30.19px;
+	left: 437px;
+	top: 403px;
+}
+
+.raio4 {
+	position: absolute;
+	width: 38.6px;
+	height: 30.19px;
+	left: 226px;
+	top: 615px;
+}
+
+.quadrado3 {
+	position: absolute;
+	width: 232px;
+	height: 221px;
+	left: 1013px;
+	top: 410px;
+	border: 1px solid #000;
+	background-color: #F4F4F4;
+}
+
+.tnis3 {
+	position: absolute;
+	width: 170px;
+	height: 115px;
+	left: 1043px;
+	top: 449px;
+}
+
+.raio5 {
+	position: absolute;
+	width: 38.6px;
+	height: 30.19px;
+	left: 1216px;
+	top: 403px;
+}
+
+.raio6 {
+	position: absolute;
+	width: 38.6px;
+	height: 30.19px;
+	left: 1002px;
+	top: 615px;
+}
+
+
+
+.seta {
+	position: absolute;
+	width: 58px;
+	height: 84px;
+	left: 1290px;
+	top: 477px;
+}
+
+.seta2 {
+	position: absolute;
+	width: 58px;
+	height: 84px;
+	left: 140px;
+	top: 477px;
+}
+
+
+.preço {
+	position: absolute;
+	width: 30px;
 	height: 34px;
-	left: 308px;
-	top: 97px;
+	left: 670px;
+	top: 668px;
+}
+
+.valor {
+	position: absolute;
+	width: 156px;
+	height: 34px;
+	left: 714px;
+	top: 643px;
+	font-family: inter;
+	font-size: 27px;
+}
+
+
+.valor2 {
+	position: absolute;
+	width: 156px;
+	height: 34px;
+	left: 318px;
+	top: 627px;
+	font-family: inter;
+	font-size: 19px;
+}
+
+.preço2 {
+	position: absolute;
+	width: 23px;
+	height: 22px;
+	left: 282px;
+	top: 645px;
+
+}
+
+
+.valor3 {
+	position: absolute;
+	width: 156px;
+	height: 34px;
+	left: 1103px;
+	top: 627px;
+	font-family: inter;
+	font-size: 19px;
+}
+
+.preço3 {
+	position: absolute;
+	width: 23px;
+	height: 22px;
+	left: 1069px;
+	top: 645px;
+}
+
+
+.corte {
+	position: absolute;
+	width: 97px;
+	height: 53px;
+	left: 696px;
+	top: 758px;
+}
+
+.tnis4 {
+	position: absolute;
+	width: 226px;
+	height: 175px;
+	left: 629px;
+	top: 878px;
+}
+
+
+.chinelo {
+	position: absolute;
+	width: 223px;
+	height: 175px;
+	left: 239px;
+	top: 878px;
+}
+
+.tnis5 {	
+	position: absolute;
+	width: 226px;
+	height: 175px;
+	left: 1018px;
+	top: 878px;
+}
+
+.efeito {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 565px;
+	top: 866px;
+}
+
+.efeito2 {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 860px;
+	top: 987px;
+}
+
+
+.efeito3 {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 180px;
+	top: 866px;
+}
+
+
+.efeito4 {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 469px;
+	top: 987px;
+}
+
+.efeito5 {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 960px;
+	top: 866px;
+}
+
+.efeito6 {
+	position: absolute;
+	width: 59px;
+	height: 78px;
+	left: 1247px;
+	top: 987px;
 }
