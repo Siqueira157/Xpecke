@@ -1,0 +1,88 @@
+body {
+	background-color: #C8C4C4;
+}
+
+
+.box {
+	position: absolute;
+	width: 704px;
+	height: 512px;
+	left: 390px;
+	top: 140px;
+	background-color: #FFF;
+}
+
+
+
+.logo {
+	position: absolute;
+	width: 200px;
+	height: 60.9px;
+	left: 645px;
+	top: 150px;
+}
+
+.mail {
+	position: absolute;
+	width: 391px;
+	height: 35px;
+	left: 543px;
+	top: 310px;
+	background-color: #D9D9D9;
+	font-family: inter;
+	font-size: 18px;
+}
+
+.senha {
+	position: absolute;
+	width: 392px;
+	height: 33px;
+	left: 543px;
+	top: 380px;
+	background-color: #D9D9D9;
+	font-family: inter;
+	font-size: 18px;
+}
+
+.box1 {
+	position: absolute;
+	width: 166px;
+	height: 37px;
+	left: 665px;
+	top: 465px;
+	background-color: #D9D9D9;
+	
+}
+
+.txt {
+	font-size: 25px;
+	font-family: inter;
+	margin: auto 25px auto 45px;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: #EF2323;
+	background-color: #EE0112;
+}
+
+.home {
+	position: absolute;
+	width: 93px;
+	height: 25px;
+	left: 978px;
+	top: 609px;
+}
+
+
+.rgs {
+	position: absolute;
+	width: 186px;
+	height: 24px;
+	left: 692px;
+	top: 589px;
+	font-size: 20px;
+	font-family: inter;
+	color: black;
+}
